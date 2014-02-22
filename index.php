@@ -100,23 +100,10 @@
             </div>
             <div id="apple_soon"></div>
             <div id="google_soon"/></div>
-        </div>
-    </div>
-    <hr/>
-    <div class="row">
-        <div class="span12">
-            <?php /*
-                <p class="pull-right">
-                    <a href="#" class="sb min twitter" title="Twitter">Twitter</a>
-                    <a href="#" class="sb min facebook" title="Facebook">Facebook</a>
-                    <a href="#" class="sb min pinterest" title="Pinterest">Pinterest</a>
-                    <a href="#" class="sb min rss" title="RSS">RSS</a>
-                </p>
-                */
-            ?>
-            <p class="pull-right">Developed By: <a id="appbox_logo"
-                                                   href="http://www.appboxmedia.com"
-                                                   target="_blank">ff</a></p>
+        <p style="margin-top:25px;font-weight: bold;" class="pull-right">Developed By: <a id="appbox_logo"
+                                               href="http://www.appboxmedia.com"
+                                               target="_blank">ff</a></p>
+
         </div>
     </div>
 </div>
